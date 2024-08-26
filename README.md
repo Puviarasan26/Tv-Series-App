@@ -33,4 +33,4 @@ The app is designed using the **MVVM (Model-View-ViewModel) architecture** and t
 To install the Tv Series app, you can use the provided APK file:
 
 ```bash
-adb install path_to_apk
+adb install path_to_apk 
